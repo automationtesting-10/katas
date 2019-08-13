@@ -3,7 +3,7 @@
  * MexicanWave class.
  *
  * @author Cristian Lujan
- * @version 0.0.1
+ * @version 0.1
  */
 class MexicanWave {
 
